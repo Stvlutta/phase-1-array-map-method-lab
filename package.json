@@ -16,5 +16,13 @@
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "1.0.1"
+  },
+  "dependencies": {
+    "core-js": "^3.41.0",
+    "debug": "^3.2.7",
+    "har-validator": "^5.1.5",
+    "mkdirp": "^3.0.1",
+    "request": "^2.88.2",
+    "uuid": "^11.1.0"
   }
 }
